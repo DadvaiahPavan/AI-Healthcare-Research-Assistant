@@ -1,45 +1,27 @@
-# Core Data Processing
-pandas>=2.0.0  # Advanced data manipulation and analysis
-numpy>=1.24.0  # Numerical computing library
-scikit-learn>=1.3.0  # Machine learning and predictive modeling
-matplotlib>=3.7.0  # Static data visualization
-plotly>=5.15.0  # Interactive and publication-quality graphs
-
-# Web Framework and API
-streamlit>=1.30.0  # Rapid web app development for ML and data science
-requests>=2.31.0  # HTTP library for external API calls
-python-dotenv>=1.0.0  # Environment variable management
-
-# PDF and Document Processing
-PyPDF2==3.0.1  # PDF reading and manipulation
-fpdf>=1.7.2  # PDF generation capabilities
-
-# Visualization Utilities
-kaleido>=0.2.1  # Static image export for Plotly charts
-seaborn>=0.12.0  # Statistical data visualization
-
-# Medical and NLP Processing
-medspacy>=0.3.0  # Advanced medical text processing
-transformers>=4.30.0  # State-of-the-art NLP models
-spacy>=3.5.0  # Industrial-strength NLP
-nltk>=3.8.0  # Natural Language Toolkit
-
-# Machine Learning and AI
-torch>=2.0.0  # Deep learning framework
-openai>=1.0.0  # OpenAI API integration (alternative to openrouter-ai)
-
-# Testing and Quality Assurance
-pytest>=7.4.4  # Testing framework
-pytest-cov>=4.1.0  # Code coverage measurement
-mypy>=1.3.0  # Static type checking
-black>=23.3.0  # Code formatting
-
-# Optional: Deployment and Performance
-gunicorn>=20.1.0  # WSGI HTTP Server
-uvicorn>=0.22.0  # ASGI server for async capabilities
-
-# Logging and Monitoring
-loguru>=0.7.0  # Advanced logging library
-
-# Security
-cryptography>=41.0.0  # Secure data handling
+pandas
+numpy
+scikit-learn
+matplotlib
+plotly
+streamlit
+requests
+python-dotenv
+PyPDF2
+fpdf
+kaleido
+seaborn
+medspacy
+transformers
+spacy
+nltk
+torch
+openai
+pytest
+pytest-cov
+mypy
+black
+gunicorn
+uvicorn
+loguru
+cryptography
+openrouter-ai

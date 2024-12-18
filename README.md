@@ -149,9 +149,9 @@ python -m pytest tests/
 - Open-source Contributors
 
 ## 📞 Contact
-- **Project Maintainer**: [Your Name]
-- **Email**: [your.email@example.com]
-- **LinkedIn**: [Your LinkedIn Profile]
+- **Project Maintainer**: Dadvaiah Pavan
+- **Email**: Pavannetha219@gmail.com 
+- **LinkedIn**: https://www.linkedin.com/in/dadvaiah-pavan/
 
 ---
 

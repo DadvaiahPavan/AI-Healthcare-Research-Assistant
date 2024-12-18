@@ -1,0 +1,43 @@
+{
+    "osteoporosis": {
+        "approved_drugs": [
+            {
+                "drug_name": "Romosozumab (Evenity)",
+                "mechanism": "Monoclonal antibody that blocks sclerostin, increasing bone formation and decreasing bone resorption",
+                "effectiveness": "Significantly increases bone mineral density and reduces fracture risk in postmenopausal women",
+                "research_status": "FDA approved in 2019 for postmenopausal osteoporosis",
+                "side_effects": "Joint pain, headache, mild injection site reactions, increased risk of cardiovascular events"
+            },
+            {
+                "drug_name": "Denosumab (Prolia)",
+                "mechanism": "RANKL inhibitor that reduces bone resorption by decreasing osteoclast formation",
+                "effectiveness": "Reduces fracture risk by up to 68% in postmenopausal women",
+                "research_status": "FDA approved, widely used first-line treatment",
+                "side_effects": "Joint pain, back pain, increased risk of infections"
+            },
+            {
+                "drug_name": "Teriparatide (Forteo)",
+                "mechanism": "Synthetic parathyroid hormone that stimulates new bone formation",
+                "effectiveness": "Increases bone density and reduces fracture risk by up to 65%",
+                "research_status": "FDA approved, used for severe cases",
+                "side_effects": "Nausea, leg cramps, dizziness"
+            }
+        ],
+        "experimental_drugs": [
+            {
+                "drug_name": "Abaloparatide",
+                "mechanism": "Selective activator of PTH1 receptor signaling",
+                "effectiveness": "Shows promising results in increasing bone formation",
+                "research_status": "Phase III clinical trials completed",
+                "side_effects": "Dizziness, headache, nausea, palpitations"
+            },
+            {
+                "drug_name": "RAP-011",
+                "mechanism": "ActRIIA ligand trap that increases bone formation",
+                "effectiveness": "Early studies show significant increase in bone mass",
+                "research_status": "Phase II clinical trials",
+                "side_effects": "Under investigation"
+            }
+        ]
+    }
+}

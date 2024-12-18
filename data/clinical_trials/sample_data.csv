@@ -1,0 +1,6 @@
+patient_id,age,gender,condition,treatment_group,outcome
+1,65,M,Alzheimer's,Drug A,Improved
+2,45,F,Alzheimer's,Placebo,No Change
+3,55,M,Alzheimer's,Drug A,Moderate Improvement
+4,70,F,Alzheimer's,Drug B,Slight Improvement
+5,60,M,Alzheimer's,Placebo,Declined

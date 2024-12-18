@@ -1,48 +1,48 @@
 # AI Healthcare Research Assistant - Dependencies
 
 # Core Data Processing
-pandas>=2.0.0  # Advanced data manipulation and analysis
-numpy>=1.24.0  # Numerical computing library
-scikit-learn>=1.3.0  # Machine learning and predictive modeling
-matplotlib>=3.7.0  # Static data visualization
-plotly>=5.15.0  # Interactive and publication-quality graphs
+pandas  # Advanced data manipulation and analysis
+numpy  # Numerical computing library
+scikit-learn  # Machine learning and predictive modeling
+matplotlib  # Static data visualization
+plotly  # Interactive and publication-quality graphs
 
 # Web Framework and API
-streamlit>=1.30.0  # Rapid web app development for ML and data science
-requests>=2.31.0  # HTTP library for external API calls
-python-dotenv>=1.0.0  # Environment variable management
+streamlit  # Rapid web app development for ML and data science
+requests  # HTTP library for external API calls
+python-dotenv  # Environment variable management
 
 # PDF and Document Processing
-PyPDF2==3.0.1  # PDF reading and manipulation
-fpdf>=1.7.2  # PDF generation capabilities
+PyPDF2  # PDF reading and manipulation
+fpdf  # PDF generation capabilities
 
 # Visualization Utilities
-kaleido>=0.2.1  # Static image export for Plotly charts
-seaborn>=0.12.0  # Statistical data visualization
+kaleido  # Static image export for Plotly charts
+seaborn  # Statistical data visualization
 
 # Medical and NLP Processing
-medspacy>=0.3.0  # Advanced medical text processing
-transformers>=4.30.0  # State-of-the-art NLP models
-spacy>=3.5.0  # Industrial-strength NLP
-nltk>=3.8.0  # Natural Language Toolkit
+medspacy  # Advanced medical text processing
+transformers  # State-of-the-art NLP models
+spacy  # Industrial-strength NLP
+nltk  # Natural Language Toolkit
 
 # Machine Learning and AI
-torch>=2.0.0  # Deep learning framework
-openai>=1.0.0  # OpenAI API integration
+torch  # Deep learning framework
+openai  # OpenAI API integration
 openrouter-ai  # Alternative AI model integration
 
 # Testing and Quality Assurance
-pytest==7.4.4  # Testing framework
-pytest-cov==4.1.0  # Code coverage measurement
-mypy>=1.3.0  # Static type checking
-black>=23.3.0  # Code formatting
+pytest  # Testing framework
+pytest-cov  # Code coverage measurement
+mypy  # Static type checking
+black  # Code formatting
 
 # Optional: Deployment and Performance
-gunicorn>=20.1.0  # WSGI HTTP Server
-uvicorn>=0.22.0  # ASGI server for async capabilities
+gunicorn  # WSGI HTTP Server
+uvicorn  # ASGI server for async capabilities
 
 # Logging and Monitoring
-loguru>=0.7.0  # Advanced logging library
+loguru  # Advanced logging library
 
 # Security
-cryptography>=41.0.0  # Secure data handling
+cryptography  # Secure data handling

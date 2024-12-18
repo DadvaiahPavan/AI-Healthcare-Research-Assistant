@@ -24,4 +24,4 @@ gunicorn
 uvicorn
 loguru
 cryptography
-
+streamlit-navigation-bar

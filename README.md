@@ -58,7 +58,7 @@ The AI Healthcare Research Assistant is an advanced, AI-powered platform designe
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/ai-healthcare-research.git
+https://github.com/DadvaiahPavan/AI-Healthcare-Research-Assistant.git
 cd ai-healthcare-research
 ```
 

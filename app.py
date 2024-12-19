@@ -802,7 +802,7 @@ def render_about_page():
     st.write('Explore more of my work on my [GitHub](https://github.com/DadvaiahPavan) or visit my [portfolio](https://pavandadvaiah.netlify.app/) for further details.')
 
     # Optionally, add an image or icon related to healthcare or AI
-    st.image('https://i.ibb.co/KsTCN62/th-1.jpg', caption='AI in Healthcare', width=600)
+    st.image('https://i.ibb.co/KsTCN62/th-1.jpg', caption='AI in Healthcare', use_container_width=True)
 
 
 if __name__ == "__main__":
